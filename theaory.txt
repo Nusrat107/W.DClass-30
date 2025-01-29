@@ -1,0 +1,28 @@
+Way of writing js....
+
+1. Inline (Event)
+2. Internal
+3. External
+
+
+
+1. Variable
+2. Data Type
+
+
+Way of declaring variable in js....
+
+1. General Way
+2. using let
+3. using var 
+4. using const
+
+We are going to play cricket tomorrow at 7 am
+
+Data Type...
+
+1. string (Normal word, sentence)
+2. integer (number => non decimal number)=> 1 2 3 4 5 677846376, 10000, -30, -50
+3. float (number) => 45.7, 68, 6.00
+4. double (number) => 56.7, 7899.6
+5. boolean (yes/no) => true/false
